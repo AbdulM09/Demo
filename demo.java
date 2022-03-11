@@ -1,1 +1,3 @@
-hello abdul
+public class demo {
+    hello abdul
+}
