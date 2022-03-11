@@ -1,8 +1,9 @@
 public class demo {
     public static void main(String args[]){
-        System.out.println("Hello abdul");
+        demo d = new demo();
     }
     public demo(){
         System.out.println("ayan is dumb")
+        System.out.println("no u");
     }
 }
